@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rafia Mohsin 👋
 
-<!--
-**RafiaMohsin/RafiaMohsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science Student at FAST NUCES Lahore
 
-Here are some ideas to get you started:
+📊 Passionate about:
+- Data Science
+- Machine Learning
+- Generative AI
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building:
+- AI Projects
+- Recommendation Systems
+- RAG Applications
+- Productivity Platforms
+
+🌱 Currently Learning:
+- Arabic
+- Deep Learning
+- Software Engineering
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/rafia-mohsin-568bb141b
+- Email: rafiaofficial110@gmail.com
