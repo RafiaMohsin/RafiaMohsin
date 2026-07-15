@@ -23,10 +23,6 @@
 - LinkedIn: www.linkedin.com/in/rafia-mohsin-568bb141b
 - Email: rafiaofficial110@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafiaMohsin&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafiaMohsin&layout=compact)
-
 ## Tech Stack
 
 Python
@@ -41,7 +37,4 @@ Streamlit
 Hugging Face
 FAISS
 
-![Python]
-![TensorFlow]
-![SQL]
 
