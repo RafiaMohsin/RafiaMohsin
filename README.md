@@ -1,17 +1,15 @@
-# Hi, This is Rafia 🫶
+# Hi, This is Rafia 👻
 
-🎓 BS Data Science Student at FAST NUCES Lahore
+Every Data Scientist’s journey has to start somewhere… mine starts with Python!
 
-## Passionate about learning.
+## I'm Passionate about Learning and Leading.
 
-🚀 Currently Building nothing...
+# Please dunno Connect with me:
 
-# Connect with me:
 - LinkedIn: www.linkedin.com/in/rafia-mohsin-568bb141b
-- Email: rafiaofficial110@gmail.com
+  
 
-## Tech Stack
-Python
+
 
 
 
